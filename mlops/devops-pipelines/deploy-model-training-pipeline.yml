@@ -11,7 +11,7 @@ variables:
 #       See the documentation for more information.
 #       https://learn.microsoft.com/en-us/azure/devops/pipelines/build/triggers?view=azure-devops
 trigger:
-- none
+- main
 
 # This the image that is used to run the pipeline
 # Note: This is the image that is used to run the pipeline.
